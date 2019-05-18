@@ -67,7 +67,9 @@ import redis.clients.jedis.JedisPoolConfig;
 		<constructor-arg index="2" value="100" type="int"/>
 		<constructor-arg index="3" ref="jedisPoolConfig"/>
 	</bean>
+	
  */
+
 @Configuration
 public class ResdisClusterConfigure {
 	private static Integer REDIS_TIME_OUT  = 20000;
