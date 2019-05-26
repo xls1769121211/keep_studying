@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+    <!--通过构造方法创建bean-->
+     <bean id="bean01" class="com.xls.spring_ioc.bean.Bean"></bean>
+    <!--通过静态方法创建bean-->
+    <bean id="bean2" class="com.xls.spring_ioc.bean.Bean2Factory" factory-method="getBean"></bean>
+    <!--通过实例方法创建bean-->
+    <bean id="bean3Factory" class="com.xls.spring_ioc.bean.Bean3Factory"></bean>
+    <bean id="bean3" class="com.xls.spring_ioc.bean.Bean3" factory-bean="bean3Factory"></bean>
+
+</beans>
