@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd"
+    default-lazy-init="true"
+>
+    <!--通过构造方法创建bean bean的懒加载
+        lazy-init = "true"
+        全局使用懒加载
+        在beans 标签中添加
+    default-lazy-init="true"
+    -->
+     <bean id="bean01" class="com.xls.spring_ioc.bean.Bean"></bean>
+
+</beans>

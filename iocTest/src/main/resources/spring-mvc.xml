@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+
+    <!--测试bean 的web作用域 Request ,Session,Application -->
+    <bean class="com.xls.spring_mvc_ioc.RequestController" scope="request"></bean>
+    <bean class="com.xls.spring_mvc_ioc.SessionController" scope="session"></bean>
+    <bean class="com.xls.spring_mvc_ioc.ApplicationController" scope="application"></bean>
+
+
+</beans>

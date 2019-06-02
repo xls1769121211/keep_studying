@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd"
+>
+    <!--
+        Bean的初始化和销毁方法测试
+    -->
+     <bean id="bean11" class="com.xls.spring_ioc.bean.Bean11" init-method="onInit" destroy-method="onDestroy"></bean>
+</beans>

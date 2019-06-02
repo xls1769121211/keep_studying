@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+
+    <!--测试 bean 的作用域
+        默认都是单例模式
+    -->
+  <!--  <bean id="anotherBean" class="com.xls.spring_ioc.bean.Bean7"></bean>
+    <bean id="bean6" class="com.xls.spring_ioc.bean.Bean6">
+            <property name="bean7" ref="anotherBean"></property>
+    </bean>
+-->
+    <!--
+        bean7多例 bean6单例 得到的还是一样的 因为 bean6只初始化了一次
+    -->
+<!--    <bean id="anotherBean" class="com.xls.spring_ioc.bean.Bean7" scope="prototype"></bean>
+    <bean id="bean6" class="com.xls.spring_ioc.bean.Bean6">
+        <property name="bean7" ref="anotherBean"></property>
+    </bean>-->
+
+
+    <!--
+       bean7单例 bean6多例例 得到的还是bean7一样的 bean6不一样
+   -->
+   <!-- <bean id="anotherBean" class="com.xls.spring_ioc.bean.Bean7" scope="singleton"></bean>
+    <bean id="bean6" class="com.xls.spring_ioc.bean.Bean6" scope="prototype">
+        <property name="bean7" ref="anotherBean"></property>
+    </bean>-->
+
+    <!--
+     两个都是多例 得到的都是多例
+  -->
+     <bean id="anotherBean" class="com.xls.spring_ioc.bean.Bean7" scope="prototype"></bean>
+     <bean id="bean6" class="com.xls.spring_ioc.bean.Bean6" scope="prototype">
+         <property name="bean7" ref="anotherBean"></property>
+     </bean>
+
+    <!--bean8 单例 bean9 多例通过方法注入 bean 实现 bean8单例，bean9多例-->
+    <bean id="bean9" class="com.xls.spring_ioc.bean.Bean9" scope="prototype"></bean>
+
+    <bean id="bean8"  class="com.xls.spring_ioc.bean.Bean8">
+    <lookup-method name="createBean9" bean="bean9"></lookup-method>
+</bean>
+</beans>

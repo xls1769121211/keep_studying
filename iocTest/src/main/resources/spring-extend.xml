@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd"
+>
+    <!--
+        Bean的继承属性简化
+    -->
+    <bean id="parent" class="com.xls.spring_ioc.bean.ParentBean" abstract="true">
+        <property name="attr1" value="attr1"></property>
+        <property name="attr2" value="attr2"></property>
+        <property name="attr3" value="attr3"></property>
+    </bean>
+
+    <bean id="bean12" class="com.xls.spring_ioc.bean.Bean12" parent="parent">
+        <property name="attr4" value="attr4"></property>
+    </bean>
+    <bean id="bean13" class="com.xls.spring_ioc.bean.Bean13" parent="parent">
+     <property name="attr5" value="attr5"></property>
+    </bean>
+
+
+    <bean id="parent1"  abstract="true">
+        <property name="attr1" value="attr1"></property>
+        <property name="attr2" value="attr2"></property>
+        <property name="attr3" value="attr3"></property>
+    </bean>
+
+    <bean id="bean14" class="com.xls.spring_ioc.bean.Bean14" parent="parent1">
+        <property name="attr6" value="attr6"></property>
+    </bean>
+    <bean id="bean15" class="com.xls.spring_ioc.bean.Bean15" parent="parent1">
+        <property name="attr7" value="attr7"></property>
+</bean>
+</beans>

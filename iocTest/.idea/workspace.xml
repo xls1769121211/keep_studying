@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="com.xls.ioc:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2acc1514-bf4c-4245-a13e-c0d4cf64784f" name="Default Changelist" comment="" />
+    <list default="true" id="2acc1514-bf4c-4245-a13e-c0d4cf64784f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.xls.ioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyConfigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyCustomScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/MyCustomScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/ParentBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanInitAndDestroy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanLazyInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestExtendBeanAttr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBeanCustomScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/ApplicationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/RequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/SessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-extend.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-init-destroy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-lazy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xls/ioc/IocContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xls/ioc/IocContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,6 +68,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/iocTest$All_Features_in__iocTest.ic" NAME="All Features in: iocTest Coverage Results" MODIFIED="1559471651897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-572802784">
@@ -47,72 +114,149 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1161068374">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="18" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="93" />
+          <entry key="xml" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="18" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="93" />
+          <entry key="XML" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="5068" />
+          <entry key="xml" value="2011" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5068" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="2011" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="iocTest" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean23.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="171">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/IocContainer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#328#344#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/test/TestIoc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#73#74#0" expanded="true" />
-                <element signature="e#89#90#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyConfigure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="491">
+              <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#1342#1343#0" expanded="true" />
+                <element signature="e#1385#1386#0" expanded="true" />
+                <element signature="e#1776#1777#0" expanded="true" />
+                <element signature="e#1810#1811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.6.RELEASE/spring-context-4.0.6.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,51 +265,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="415">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
-                <element signature="e#77#78#0" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="117">
+              <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean3Factory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean2Factory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,37 +305,90 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>l</find>
+      <find>dogetbean</find>
+      <find>containsBeanDefinition</find>
+      <find>stringList</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/car/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/car/AuDi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/car/Buike.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/human/Human.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/IocContain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/human/HumanWithCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/human/ZhanSan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/human/LisiHuman.java" />
-        <option value="$PROJECT_DIR$/class1/src/main/java/com/xls/ioc/test/TestIoc.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/IocContainer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/ioc/test/TestIoc.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/Bean.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean2Factory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean3Factory.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean4.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-bean.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean3.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-bean1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/ApplicationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/RequestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/SessionController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/MyCustomScope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBeanCustomScope.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-bean2.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanLazyInit.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-lazy.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-init-destroy.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanInitAndDestroy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/ParentBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean15.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestExtendBeanAttr.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-extend.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/bean1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean19.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyCustomScope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean20.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean23.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean22.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean24.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyConfigure.java" />
       </list>
     </option>
+  </component>
+  <component name="JavaeeView">
+    <option name="frameworksView" value="false" />
+    <option name="showModules" value="false" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -220,10 +398,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="372" />
-    <option name="y" value="213" />
-    <option name="width" value="1346" />
-    <option name="height" value="683" />
+    <option name="x" value="371" />
+    <option name="y" value="212" />
+    <option name="width" value="1347" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -270,6 +451,35 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="xls" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_annotation_ioc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iocTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iocTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xls" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_annotation_ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iocTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iocTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xls" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_annotation_ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iocTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iocTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xls" type="462c0819:PsiDirectoryNode" />
               <item name="spring_ioc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -301,31 +511,78 @@
             </path>
             <path>
               <item name="iocTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="iocTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iocTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iocTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="iocTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="iocTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iocTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iocTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/work/github/keep_studying/iocTest/src/main/java/com/xls/spring_ioc/bean/Bean6.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558855722138" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559493171059" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.side.proportion" value="0.291954" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\github\keep_studying\iocTest\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xls.spring_annotation_ioc.bean" />
       <recent name="com.xls.spring_ioc.bean" />
+      <recent name="com.xls.spring_ioc.test" />
+      <recent name="com.xls.spring_mvc_ioc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\idea\iocTest" />
@@ -344,25 +601,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSpringBean.start">
-    <configuration name="TestIoc.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="iocTest" />
+  <component name="RunManager" selected="JUnit.TestAnnotation.Test">
+    <configuration name="TestAnnotation.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xls.ioc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xls.ioc.test.*" />
+          <option name="PATTERN" value="com.xls.spring_annotation_ioc.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xls.ioc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xls.ioc.test.TestIoc" />
+      <option name="PACKAGE_NAME" value="com.xls.spring_annotation_ioc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring_annotation_ioc.test.TestAnnotation" />
       <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSpringBean.start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="iocTest" />
+    <configuration name="TestBeanInitAndDestroy.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xls.ioc" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xls.spring_ioc.test.*" />
@@ -370,21 +627,337 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xls.spring_ioc.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xls.spring_ioc.test.TestSpringBean" />
-      <option name="METHOD_NAME" value="start" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring_ioc.test.TestBeanInitAndDestroy" />
+      <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestBeanLazyInit.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xls.ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.spring_ioc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.spring_ioc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring_ioc.test.TestBeanLazyInit" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExtendBeanAttr.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xls.ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.spring_ioc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.spring_ioc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring_ioc.test.TestExtendBeanAttr" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpringBean2.testInsertBean" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="com.xls.ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.spring_ioc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.spring_ioc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring_ioc.test.TestSpringBean2" />
+      <option name="METHOD_NAME" value="testInsertBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpringBean3.testInsertBean" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="com.xls.ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.spring_ioc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.spring_ioc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring_ioc.test.TestSpringBean3" />
+      <option name="METHOD_NAME" value="testInsertBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpringBeanCustomScope.TestSpringBeanCustomScope" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xls.ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.spring_ioc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.spring_ioc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring_ioc.test.TestSpringBeanCustomScope" />
+      <option name="METHOD_NAME" value="TestSpringBeanCustomScope" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_iocTest_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57597" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.93" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_iocTest" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57559" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57557" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="local_tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.93" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="com.xls.ioc:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_iocTest" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57559" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="com.xls.ioc:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.TestIoc.Test" />
-      <item itemvalue="JUnit.TestSpringBean.start" />
+      <item itemvalue="JUnit.TestSpringBean3.testInsertBean" />
+      <item itemvalue="JUnit.TestSpringBean2.testInsertBean" />
+      <item itemvalue="Tomcat Server.local_tomcat" />
+      <item itemvalue="JUnit.TestSpringBeanCustomScope.TestSpringBeanCustomScope" />
+      <item itemvalue="JUnit.TestBeanLazyInit.Test" />
+      <item itemvalue="JUnit.TestBeanInitAndDestroy.Test" />
+      <item itemvalue="JUnit.TestExtendBeanAttr.Test" />
+      <item itemvalue="JUnit.TestAnnotation.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestSpringBean.start" />
-        <item itemvalue="JUnit.TestIoc.Test" />
+        <item itemvalue="JUnit.TestAnnotation.Test" />
+        <item itemvalue="JUnit.TestExtendBeanAttr.Test" />
+        <item itemvalue="JUnit.TestBeanInitAndDestroy.Test" />
+        <item itemvalue="JUnit.TestBeanLazyInit.Test" />
+        <item itemvalue="JUnit.TestSpringBeanCustomScope.TestSpringBeanCustomScope" />
       </list>
     </recent_temporary>
   </component>
@@ -399,52 +972,82 @@
       <option name="presentableId" value="Default" />
       <updated>1558847382129</updated>
       <workItem from="1558847387471" duration="8613000" />
+      <workItem from="1559460863995" duration="28086000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestIoc_Test - 2019.05.26 at 14h 25m 56s.xml">
-      <configuration name="TestIoc.Test" configurationId="JUnit" />
+    <history-entry file="TestAnnotation_Test - 2019.06.02 at 23h 50m 20s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIoc_Test - 2019.05.26 at 14h 27m 59s.xml">
-      <configuration name="TestIoc.Test" configurationId="JUnit" />
+    <history-entry file="TestAnnotation_Test - 2019.06.02 at 23h 50m 49s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSpringBean_start - 2019.05.26 at 15h 14m 43s.xml">
-      <configuration name="TestSpringBean.start" configurationId="JUnit" />
+    <history-entry file="TestAnnotation_Test - 2019.06.02 at 23h 51m 51s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSpringBean_start - 2019.05.26 at 15h 22m 54s.xml">
-      <configuration name="TestSpringBean.start" configurationId="JUnit" />
+    <history-entry file="TestAnnotation_Test - 2019.06.03 at 00h 04m 03s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSpringBean_start - 2019.05.26 at 15h 28m 37s.xml">
-      <configuration name="TestSpringBean.start" configurationId="JUnit" />
+    <history-entry file="TestAnnotation_Test - 2019.06.03 at 00h 04m 28s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnnotation_Test - 2019.06.03 at 00h 05m 25s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnnotation_Test - 2019.06.03 at 00h 09m 35s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnnotation_Test - 2019.06.03 at 00h 27m 50s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnnotation_Test - 2019.06.03 at 00h 28m 06s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnnotation_Test - 2019.06.03 at 00h 29m 46s.xml">
+      <configuration name="TestAnnotation.Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8613000" />
+    <option name="totallyTimeSpent" value="36699000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Web" sideWeight="0.5010571" side_tool="true" weight="0.25670242" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25340393" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32843137" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info id="Favorites" order="4" sideWeight="0.5010571" side_tool="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6391304" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="6" sideWeight="0.36086956" side_tool="true" weight="0.25670242" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.32907802" />
+      <window_info anchor="bottom" id="Java Enterprise" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50067025" side_tool="true" weight="0.27659574" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.14869282" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49932975" visible="true" weight="0.04397163" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.2567376" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32765958" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -463,187 +1066,508 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/car/Car.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.6.RELEASE/spring-context-4.0.6.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="174">
+          <caret line="309" column="63" lean-forward="true" selection-start-line="309" selection-start-column="42" selection-end-line="309" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/car/AuDi.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.6.RELEASE/spring-context-4.0.6.RELEASE.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="115">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/car/Buike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/human/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/human/HumanWithCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/human/ZhanSan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/human/LisiHuman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iocTest.iml">
+    <entry file="file://$PROJECT_DIR$/com.xls.ioc.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/IocContainer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/ApplicationController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+        <state relative-caret-position="171">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#328#344#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/ioc/test/TestIoc.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/RequestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/SessionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean2Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="394">
+          <caret line="26" column="51" lean-forward="true" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="133">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="190">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
           <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <element signature="e#123#124#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean3Factory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean21.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyCustomScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-lazy.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-init-destroy.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-extend.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+        <state relative-caret-position="133">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBeanCustomScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-bean2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/MyCustomScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/ParentBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanInitAndDestroy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanLazyInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestExtendBeanAttr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="15" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="13" column="85" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-bean1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.6.RELEASE/spring-context-4.0.6.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -651,9 +1575,8 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
+      <state key="ArquillianSettingsConfigurable.UI">
         <settings>
-          <artifact-editor />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -663,13 +1586,26 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="FacetStructureConfigurable.UI">
+      <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <artifact-editor />
+          <last-edited>com.xls.ioc:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.291954" />
               </list>
             </option>
           </splitter-proportions>
@@ -700,11 +1636,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>iocTest</last-edited>
+          <last-edited>com.xls.ioc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -716,7 +1653,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
               </list>
             </option>
           </splitter-proportions>

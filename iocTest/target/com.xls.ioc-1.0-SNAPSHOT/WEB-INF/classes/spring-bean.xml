@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+    <bean id="anotherBean" class="com.xls.spring_ioc.bean.Bean5"></bean>
+    <!--通过构造方法注入bean-->
+    <bean id="bean4" class="com.xls.spring_ioc.bean.Bean4">
+       <!-- &lt;!&ndash; 如果是基础类型 用value 如果是实体bean 则用引用ref &ndash;&gt;-->
+        <constructor-arg index="0" name="anotherBean" type="com.xls.spring_ioc.bean.Bean5" ref="anotherBean"></constructor-arg>
+        <constructor-arg index="1" name="name" type="java.lang.String" value="xls"></constructor-arg>
+
+        <!--&lt;!&ndash;通过 set 注入bean &ndash;&gt;-->
+        <property name="anotherBean2" ref="anotherBean"></property>
+        <property name="name2" value="lym"></property>
+
+        <!-- 注入list map set properties 和 空值-->
+        <property name="stringList">
+            <list>
+                <value>12346</value>
+                <value>""</value>
+            </list>
+        </property>
+
+        <property name="anotherBeanList">
+            <list>
+                <ref bean="anotherBean"></ref>
+                <bean class="com.xls.spring_ioc.bean.Bean5"></bean>
+            </list>
+        </property>
+
+        <property name="stringSet">
+            <set>
+                <value>123</value>
+                <value>123</value>
+                <value>1234</value>
+            </set>
+        </property>
+
+        <property name="anotherList2">
+            <null></null>
+        </property>
+
+        <property name="stringMap">
+           <map>
+               <entry key="123" value="456"></entry>
+               <entry key="123" value="11111"></entry>
+           </map>
+        </property>
+
+        <property name="anotherBeanMap">
+            <map>
+                <entry key-ref="anotherBean" value-ref="anotherBean"></entry>
+            </map>
+        </property>
+
+        <property name="anotherBeanSet">
+            <set>
+                <null></null>
+                <ref bean="anotherBean"></ref>
+                <ref bean="anotherBean"></ref>
+                <ref bean="anotherBean"></ref>
+            </set>
+
+        </property>
+
+        <property name="properties">
+            <props>
+               <prop key="123">1234455</prop>
+            </props>
+        </property>
+
+    </bean>
+
+    <!--以上写法有简便写法 需要引入
+        xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:p="http://www.springframework.org/schema/p"
+
+    <bean id="bean4" class="com.xls.spring_ioc.bean.Bean4" c:_0-ref="anotherBean" c:_1="xls" p:anotherBean-ref="anotherBean" p:name2="ym">
+    </bean>-->
+</beans>
