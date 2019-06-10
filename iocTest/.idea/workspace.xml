@@ -7,59 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2acc1514-bf4c-4245-a13e-c0d4cf64784f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.xls.ioc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyConfigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyCustomScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/MyCustomScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/ParentBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanInitAndDestroy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestBeanLazyInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestExtendBeanAttr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBeanCustomScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/ApplicationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/RequestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_mvc_ioc/SessionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-bean2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-extend.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-init-destroy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-lazy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/test/TestSpringBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xls/ioc/IocContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xls/ioc/IocContainer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -117,8 +65,10 @@
     <session id="-1161068374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -162,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean23.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -179,16 +129,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyConfigure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
+            <state relative-caret-position="465">
+              <caret line="71" column="25" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#765#766#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#1342#1343#0" expanded="true" />
-                <element signature="e#1385#1386#0" expanded="true" />
-                <element signature="e#1776#1777#0" expanded="true" />
-                <element signature="e#1810#1811#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -206,8 +150,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="190">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#131#132#0" expanded="true" />
                 <element signature="e#159#160#0" expanded="true" />
@@ -230,7 +174,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="437">
               <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding>
                 <element signature="e#189#190#0" expanded="true" />
@@ -255,8 +199,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -267,18 +211,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="532">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#818#819#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -287,8 +223,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+            <state relative-caret-position="1045">
+              <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -398,10 +334,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="371" />
-    <option name="y" value="212" />
-    <option name="width" value="1347" />
-    <option name="height" value="684" />
+    <option name="x" value="370" />
+    <option name="y" value="211" />
+    <option name="width" value="1348" />
+    <option name="height" value="685" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -528,6 +464,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
@@ -558,7 +495,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -856,7 +792,7 @@
               </StagingTargetModelImpl>
             </list>
           </option>
-          <option name="transportHostId" />
+          <option name="transportHostId" value="" />
           <host-id />
         </data>
       </server-settings>
@@ -973,6 +909,7 @@
       <updated>1558847382129</updated>
       <workItem from="1558847387471" duration="8613000" />
       <workItem from="1559460863995" duration="28086000" />
+      <workItem from="1560155584288" duration="212000" />
     </task>
     <servers />
   </component>
@@ -1009,7 +946,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36699000" />
+    <option name="totallyTimeSpent" value="36911000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1022,18 +959,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Web" sideWeight="0.5010571" side_tool="true" weight="0.25670242" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5010571" side_tool="true" weight="0.25670242" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6391304" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6391304" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="6" sideWeight="0.36086956" side_tool="true" weight="0.25670242" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32907802" />
-      <window_info anchor="bottom" id="Java Enterprise" weight="0.32907802" />
+      <window_info id="Web" order="7" sideWeight="0.5010571" side_tool="true" weight="0.25670242" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50067025" side_tool="true" weight="0.27659574" />
@@ -1047,7 +981,8 @@
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32765958" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32907802" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32907802" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -1057,6 +992,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1087,11 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1099,11 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1111,11 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,10 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1155,31 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1213#1214#0" expanded="true" />
-            <element signature="e#1261#1262#0" expanded="true" />
-            <element signature="e#1294#1295#0" expanded="true" />
-            <element signature="e#1453#1454#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
-            <element signature="e#1199#1200#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1187,9 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1197,9 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,12 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1276,21 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1312,9 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1329,9 +1191,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1339,12 +1198,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1352,12 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1386,10 +1233,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1397,9 +1240,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1407,9 +1247,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1424,9 +1261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="53" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="15" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1434,9 +1268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1457,7 +1288,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean23.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1468,10 +1299,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.6.RELEASE/spring-context-4.0.6.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="190">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="e#131#132#0" expanded="true" />
             <element signature="e#159#160#0" expanded="true" />
@@ -1490,7 +1328,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="437">
           <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
           <folding>
             <element signature="e#189#190#0" expanded="true" />
@@ -1513,18 +1351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_ioc/bean/Bean11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+        <state relative-caret-position="399">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1533,41 +1361,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/Bean24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="532">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.6.RELEASE/spring-context-4.0.6.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/test/TestAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="1045">
+          <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring_annotation_ioc/bean/MyConfigure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
+        <state relative-caret-position="465">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1385#1386#0" expanded="true" />
-            <element signature="e#1776#1777#0" expanded="true" />
-            <element signature="e#1810#1811#0" expanded="true" />
           </folding>
         </state>
       </provider>
