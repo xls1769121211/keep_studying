@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Springboot 整合thymeLeaf</title>
+</head>
+<body>
+     测试字符串：<br/>
+
+     1 为标签赋值  &lt;span th:text="${string}"&gt;&lt;/span&gt; <br/>
+    <span th:text="${string}"></span>
+
+    <hr/>
+
+     2 为input 输入框赋值   &lt;input type="text"  th:value="${string}" /&gt; <br/>
+
+    <input type="text"  th:value="${string}" />
+    <hr/>
+
+     3 判断字符串是否是空   &lt;span th:text="${#strings.isEmpty(string)}"&gt;&lt;/span&gt; <br/>
+     <span th:text="${#strings.isEmpty(string)}"></span>
+    <hr/>
+
+    4 判断字符串是否包含指定子串  &lt;span th:text="${#strings.contains(string,'我')}"&gt;&lt;/span&gt; <br/>
+     <span th:text="${#strings.contains(string,'我')}"></span>
+     <hr/>
+
+     5 判断字符串是否以字符开头  &lt;span th:text="${#strings.startsWith(string,'我')}"&gt;&lt;/span&gt; <br/>
+     <span th:text="${#strings.startsWith(string,'我')}"></span>
+     <hr/>
+
+
+     6 判断字符串是否以字符结尾 &lt;span th:text="${#strings.endsWith(string,'我')}"&gt;&lt;/span&gt; <br/>
+     <span th:text="${#strings.endsWith(string,'我')}"></span>
+     <hr/>
+
+    7 返回子串的下标，没有返回-1  &lt;span th:text="${#strings.indexOf(string,'我')}"&gt;&lt;/span&gt; <br/>
+     <span th:text="${#strings.indexOf(string,'我')}"></span>
+     <hr/>
+
+     8 返回字符串长度  &lt;span th:text="${#strings.length(string)}"&gt;&lt;/span&gt; <br/>
+     <span th:text="${#strings.length(string)}"></span>
+     <hr/>
+
+     9  分割字符串 &lt;span th:text="${#strings.substring(string,5,6)}"&gt;&lt;/span&gt; <br/>
+     <span th:text="${#strings.substring(string,5)}"></span><br/>
+     <span th:text="${#strings.substring(string,5,6)}"></span>
+     <hr/>
+
+     10 字符串大小写转换  &lt;span th:text="${#strings.toLowerCase(string)}"&gt;&lt;/span&gt; ,  &lt;span th:text="${#strings.toUpperCase(string)}"&gt;&lt;/span&gt;<br/>
+     <span th:text="${#strings.toLowerCase(english)}"></span> <br/>
+     <span th:text="${#strings.toUpperCase(english)}"></span>
+     <hr/>
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Springboot整合thymeleaf</title>
+</head>
+<body>
+    测试日期 thymeleaf格式化
+    1 按照指定格式 输出,默认格式化为浏览器默认时间格式  &lt;span th:text="#{dates.format(now,'yyy-mm-dd')}"&gt;&lt;/span&gt; <br/>
+    <span th:text="${#dates.format(now)}"></span><br>
+    <span th:text="${#dates.format(now,'yyyy-MM-dd')}"></span><br>
+    <hr/>
+
+    2 获取年 ，天，月 &lt;span th:text="#{dates.year(now)}"&gt;&lt;/span&gt; month(),day() <br/>
+    年：<span th:text="${#dates.year(now)}"></span><br>
+    月：<span th:text="${#dates.month(now)}"></span><br>
+    日：<span th:text="${#dates.day(now)}"></span><br>
+
+</body>
+</html>

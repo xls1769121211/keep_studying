@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试thymeleaf 条件表达式</title>
+</head>
+<body>
+    测试thymeleaf 条件表达式    <br/>
+    1 if 判断语句  &lt;span th:if="${sex} == '男'"&gt; <br/>
+    <span th:if="${sex} == '男'">
+            男
+    </span>
+    <span th:if="${sex} == '女'">
+           女
+    </span>
+    <hr/>
+    2 switch 语句      &lt;span th:switch="${sex}"&gt; <br/>
+    <span th:switch="${sex}">
+        <sapn th:case="男">性别是男</sapn>
+        <sapn th:case="女 ">性别是女</sapn>
+    </span>
+    <hr/>
+    3 循环语句  &lt;span th:each="item : #{list}"&gt;  <br/>
+    <span th:each="item : ${list}">
+        <span th:text="${item}"></span> <br/>
+    </span>
+<hr/>
+    4 循环语句中的状态量<br/>
+    1,index:当前迭代器的索引 从0开始<br/>
+    2,count:当前迭代对象的计数 从1开始<br/>
+    3,size:被迭代对象的长度<br/>
+    4,even/odd:布尔值，当前循环是否是偶数/奇数 从0开始<br/>
+    5,first:布尔值，当前循环的是否是第一条，如果是返回true否则返回false<br/>
+    6,last:布尔值，当前循环的是否是最后一条，如果是则返回true否则返回false<br/>
+
+    <span th:each="item,var: ${list}">
+        <span th:text="${item}"></span>
+
+        index; <span th:text="${var.index}"></span>
+       count:  <span th:text="${var.count}"></span>
+       size:  <span th:text="${var.size}"></span>
+        even: <span th:text="${var.even}"></span>
+       odd:  <span th:text="${var.odd}"></span>
+        first: <span th:text="${var.first}"></span>
+       last:  <span th:text="${var.last}"></span>
+
+        <br/>
+
+
+    </span>
+    <hr/>
+
+    5测试 each 遍历map<br/>
+    <span th:each="maps : ${map}">
+
+        <span th:each="entry : ${maps}">
+                <span th:text="${entry.key}"></span>
+                <span th:text="${entry.value}"></span>
+            <br/>
+        </span>
+    </span>
+
+
+</body>
+</html>

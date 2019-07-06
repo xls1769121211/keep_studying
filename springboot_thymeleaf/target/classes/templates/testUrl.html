@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试url表达式</title>
+</head>
+<body>
+    th:href.th:src <br/>
+    基本语法：@{} <br/>
+
+    1 绝对路径 th:href="@{http://www.baidu.com}"  <br/>
+    <a th:href="@{http://www.baidu.com}">绝对路径</a><br/>
+
+    <hr/>
+    2 相对路径 相对于项目的上下文的相对路径 "@{/testScopeObject}" <br/>
+    <a th:href="@{/testScopeObject}">相对路径</a>
+    <hr/>
+    3 相对路径 相对于服务器的根目录  @{~/testScopeObject} <br/>
+    <a th:href="@{~/testScopeObject}">相对于服务器的根</a>
+    <hr/>
+    4 相对路径-传参 <br/>
+    <a th:href="@{/testScopeObject(id=1,name=zhagnsan)}">相对路径-传参</a>
+    <hr/>
+    5 相对路径-传参 restful风格路径<br/>
+    <a th:href="@{/{id}/testUrlParam(id=666666666666666666,name=zhagnsan)}">相对路径-传参-restful</a>
+</body>
+</html>
