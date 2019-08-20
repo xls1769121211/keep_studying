@@ -11,6 +11,11 @@ import java.util.List;
  * 使用 Repository 的@Query注解实现查询和更新
  */
 public interface UserRepositoryQueryAnnotation extends Repository<User,Integer>{
+
+    //根据人员id查询 使用hql
+    @Query("from User where id = ?1")
+    User queryUserById(Integer id);
+
     //根据人员名称查询 使用hql
     @Query("from User where userName = ?1")
     List<User> queryUsersByNameByHql(String username);

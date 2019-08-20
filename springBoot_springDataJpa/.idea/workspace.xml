@@ -14,22 +14,24 @@
     <session id="-1529345486">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3496" />
+          <entry key="java" value="5305" />
           <entry key="properties" value="332" />
           <entry key="xml" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3495" />
+          <entry key="JAVA" value="5304" />
           <entry key="Properties" value="332" />
           <entry key="Spring Data QL" value="1" />
           <entry key="XML" value="115" />
@@ -37,15 +39,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="14" />
-          <entry key="java" value="22" />
+          <entry key="class" value="22" />
+          <entry key="java" value="35" />
           <entry key="properties" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="14" />
-          <entry key="JAVA" value="22" />
+          <entry key="CLASS" value="22" />
+          <entry key="JAVA" value="35" />
           <entry key="Properties" value="2" />
         </counts>
       </usages-collector>
@@ -53,48 +55,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/userTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="231" column="126" selection-start-line="231" selection-start-column="126" selection-end-line="231" selection-end-column="126" />
+            <state relative-caret-position="231">
+              <caret line="317" column="10" selection-start-line="317" selection-start-column="10" selection-end-line="317" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5139#5676#0" expanded="true" />
-                <element signature="e#5675#5676#0" expanded="true" />
-                <element signature="e#5969#6506#0" expanded="true" />
-                <element signature="e#6505#6506#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar!/javax/persistence/criteria/CriteriaBuilder.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/role/domain/Role.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="506">
+              <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryJpaSpecificationExecutor.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/menu/daoSupport/MenuRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/menu/domain/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="70" lean-forward="true" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaSpecificationExecutor.class">
+        <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/Repository.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="154">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="15" column="92" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -102,62 +151,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/impl/CCCCCC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/impl/DDDDD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/AAAA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryPagingAndSorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="8" column="87" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryCrudRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="528">
+              <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,8 +165,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -189,11 +184,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/userRepository.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/userRepositoryName.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/user/domain/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnoation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnonation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnoiation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/userRepositoryCrudRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryPagingAndSorting.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryName.java" />
@@ -204,7 +197,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/impl/BBBB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRespoitoryJpaSpecificationExcutor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRespoitoryJpaSpecificationExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/user/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/role/domain/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/menu/domain/impl/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/menu/domain/impl/RoleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/impl/MenuRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/menu/daoSupport/MenuRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/test/userTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/menu/domain/Menu.java" />
       </list>
     </option>
   </component>
@@ -223,7 +224,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="135" />
     <option name="y" value="-10" />
     <option name="width" value="1350" />
@@ -234,7 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -276,6 +277,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="xls" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot_springDataJpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot_springDataJpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xls" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -295,22 +305,38 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="xls" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot_springDataJpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot_springDataJpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xls" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
               <item name="userSupport" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566038674758" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566260339000" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xls.menu.domain.impl" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -324,8 +350,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.userTest.testJpaSpecificationExecutor2">
-    <configuration name="userTest.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.userTest.TestManyToManySave">
+    <configuration name="userTest.TestManyToManySave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springBoot_springDataJpa" />
       <extension name="coverage">
         <pattern>
@@ -335,7 +361,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.xls.test" />
       <option name="MAIN_CLASS_NAME" value="com.xls.test.userTest" />
-      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="METHOD_NAME" value="TestManyToManySave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userTest.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springBoot_springDataJpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.test.userTest" />
+      <option name="METHOD_NAME" value="testFindOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -373,7 +415,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="userTest.testPagingAndSortingP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="userTest.testSaveOneToMany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springBoot_springDataJpa" />
       <extension name="coverage">
         <pattern>
@@ -383,42 +425,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.xls.test" />
       <option name="MAIN_CLASS_NAME" value="com.xls.test.userTest" />
-      <option name="METHOD_NAME" value="testPagingAndSortingP" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="userTest.testPagingAndSortingPAndS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springBoot_springDataJpa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xls.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xls.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xls.test.userTest" />
-      <option name="METHOD_NAME" value="testPagingAndSortingPAndS" />
+      <option name="METHOD_NAME" value="testSaveOneToMany" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.userTest.testPagingAndSortingP" />
-      <item itemvalue="JUnit.userTest.testPagingAndSortingPAndS" />
-      <item itemvalue="JUnit.userTest.testFindByName" />
       <item itemvalue="JUnit.userTest.testJpaSpecificationExecutor" />
       <item itemvalue="JUnit.userTest.testJpaSpecificationExecutor2" />
+      <item itemvalue="JUnit.userTest.testSaveOneToMany" />
+      <item itemvalue="JUnit.userTest.testFindOne" />
+      <item itemvalue="JUnit.userTest.TestManyToManySave" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.userTest.TestManyToManySave" />
+        <item itemvalue="JUnit.userTest.testFindOne" />
+        <item itemvalue="JUnit.userTest.testSaveOneToMany" />
         <item itemvalue="JUnit.userTest.testJpaSpecificationExecutor2" />
         <item itemvalue="JUnit.userTest.testJpaSpecificationExecutor" />
-        <item itemvalue="JUnit.userTest.testFindByName" />
-        <item itemvalue="JUnit.userTest.testPagingAndSortingPAndS" />
-        <item itemvalue="JUnit.userTest.testPagingAndSortingP" />
       </list>
     </recent_temporary>
   </component>
@@ -434,48 +460,51 @@
       <updated>1566022894364</updated>
       <workItem from="1566022899969" duration="13393000" />
       <workItem from="1566037364985" duration="1304000" />
+      <workItem from="1566211786191" duration="4166000" />
+      <workItem from="1566258836392" duration="1485000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="userTest_testFindByName - 2019.08.17 at 17h 55m 38s.xml">
-      <configuration name="userTest.testFindByName" configurationId="JUnit" />
+    <history-entry file="userTest_testFindOne - 2019.08.19 at 19h 46m 58s.xml">
+      <configuration name="userTest.testFindOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testFindByName - 2019.08.17 at 17h 59m 08s.xml">
-      <configuration name="userTest.testFindByName" configurationId="JUnit" />
+    <history-entry file="userTest_testFindOne - 2019.08.19 at 19h 53m 57s.xml">
+      <configuration name="userTest.testFindOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testFindByName - 2019.08.17 at 17h 59m 25s.xml">
-      <configuration name="userTest.testFindByName" configurationId="JUnit" />
+    <history-entry file="userTest_testFindOne - 2019.08.19 at 19h 54m 38s.xml">
+      <configuration name="userTest.testFindOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testFindByName - 2019.08.17 at 18h 00m 13s.xml">
-      <configuration name="userTest.testFindByName" configurationId="JUnit" />
+    <history-entry file="userTest_testFindOne - 2019.08.19 at 19h 55m 52s.xml">
+      <configuration name="userTest.testFindOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testFindByName - 2019.08.17 at 18h 01m 50s.xml">
-      <configuration name="userTest.testFindByName" configurationId="JUnit" />
+    <history-entry file="userTest_testFindOne - 2019.08.19 at 19h 56m 36s.xml">
+      <configuration name="userTest.testFindOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testJpaSpecificationExecutor - 2019.08.17 at 18h 39m 13s.xml">
-      <configuration name="userTest.testJpaSpecificationExecutor" configurationId="JUnit" />
+    <history-entry file="userTest_testFindOne - 2019.08.19 at 19h 57m 01s.xml">
+      <configuration name="userTest.testFindOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testJpaSpecificationExecutor2 - 2019.08.17 at 18h 40m 42s.xml">
-      <configuration name="userTest.testJpaSpecificationExecutor2" configurationId="JUnit" />
+    <history-entry file="userTest_testFindOne - 2019.08.19 at 19h 57m 36s.xml">
+      <configuration name="userTest.testFindOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testJpaSpecificationExecutor2 - 2019.08.17 at 18h 41m 44s.xml">
-      <configuration name="userTest.testJpaSpecificationExecutor2" configurationId="JUnit" />
+    <history-entry file="userTest_TestManyToManySave - 2019.08.20 at 08h 14m 49s.xml">
+      <configuration name="userTest.TestManyToManySave" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testJpaSpecificationExecutor2 - 2019.08.17 at 18h 42m 38s.xml">
-      <configuration name="userTest.testJpaSpecificationExecutor2" configurationId="JUnit" />
+    <history-entry file="userTest_TestManyToManySave - 2019.08.20 at 08h 17m 32s.xml">
+      <configuration name="userTest.TestManyToManySave" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="userTest_testJpaSpecificationExecutor2 - 2019.08.17 at 18h 43m 07s.xml">
-      <configuration name="userTest.testJpaSpecificationExecutor2" configurationId="JUnit" />
+    <history-entry file="userTest_TestManyToManySave - 2019.08.20 at 08h 18m 17s.xml">
+      <configuration name="userTest.TestManyToManySave" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14697000" />
+    <option name="totallyTimeSpent" value="20348000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2727882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,14 +514,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4858357" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23796034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.44759208" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.35835695" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -559,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -577,13 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5608">
           <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -615,63 +630,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="72" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/impl/BBBB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/domain/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryJpaSpecificationExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        <state relative-caret-position="198">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaSpecificationExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -679,9 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,9 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="8" column="87" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,46 +683,150 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaSpecificationExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryJpaSpecificationExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="70" lean-forward="true" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar!/javax/persistence/criteria/CriteriaBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar!/javax/persistence/CascadeType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../java/jdk/jdk1.8.0_201/javafx-src.zip!/com/sun/glass/ui/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../java/jdk/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2993" selection-start-line="2993" selection-end-line="2993" />
+          <folding>
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/menu/domain/impl/UserRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/role/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/userSupport/UserRepositoryQueryAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="92" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/user/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/menu/daoSupport/MenuRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/userTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="231" column="126" selection-start-line="231" selection-start-column="126" selection-end-line="231" selection-end-column="126" />
+        <state relative-caret-position="231">
+          <caret line="317" column="10" selection-start-line="317" selection-start-column="10" selection-end-line="317" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5139#5676#0" expanded="true" />
-            <element signature="e#5675#5676#0" expanded="true" />
-            <element signature="e#5969#6506#0" expanded="true" />
-            <element signature="e#6505#6506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/menu/domain/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

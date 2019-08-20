@@ -1,5 +1,7 @@
 package com.xls.user.domain;
 
+import com.xls.role.domain.Role;
+
 import javax.persistence.*;
 
 /**
@@ -21,12 +23,25 @@ public class User{
     @Column(name = "city")
     private String city;
 
+    //@JoinColumn维护外键关系
+    @ManyToOne(cascade = CascadeType.PERSIST,fetch = FetchType.EAGER)
+    @JoinColumn(name = "role_id")
+    private Role role;
+
     public Integer getId() {
         return id;
     }
 
     public void setId(Integer id) {
         this.id = id;
+    }
+
+    public Role getRole() {
+        return role;
+    }
+
+    public void setRole(Role role) {
+        this.role = role;
     }
 
     public String getUserName() {
