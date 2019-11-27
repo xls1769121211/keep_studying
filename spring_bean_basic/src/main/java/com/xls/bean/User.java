@@ -2,7 +2,9 @@ package com.xls.bean;
 
 import org.springframework.stereotype.Component;
 
-@Component(value = "user")
+/**
+ *用户类
+ */
 public class User{
     private String userName;
     private Integer age;
