@@ -6,7 +6,7 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
-public class Dog implements BeanPostProcessor{
+public class     Dog implements BeanPostProcessor{
     public Dog() {
     }
     @PostConstruct

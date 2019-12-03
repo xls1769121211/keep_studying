@@ -2,6 +2,7 @@ package com.xls.test;
 
 import com.xls.configuration.SpringConfiguration;
 import com.xls.configuration.SpringConfiguration2;
+import com.xls.configuration.SpringConfiguration3;
 import com.xls.entry.User;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -15,7 +16,10 @@ public class BeanTest {
          //test2();
         //test3();
         //test4();
-        test5();
+        //test5();
+       // test6();
+        //test7();
+        test8();
     }
 
     public static void test1(){
@@ -70,9 +74,48 @@ public class BeanTest {
         System.out.println("容器完成创建。。。。。");
 
 
-       // annotationConfigApplicationContext.getBean("People1");
+        // annotationConfigApplicationContext.getBean("People1");
         annotationConfigApplicationContext.close();
 
     }
+
+    public static void test6(){
+        AnnotationConfigApplicationContext annotationConfigApplicationContext = new AnnotationConfigApplicationContext(SpringConfiguration3.class);
+        System.out.println("容器完成创建。。。。。");
+        printBeanNames(annotationConfigApplicationContext);
+
+    }
+
+
+    /**
+     * 代码手动设置激活环境参数
+     */
+    public static void test7(){
+        AnnotationConfigApplicationContext annotationConfigApplicationContext = new AnnotationConfigApplicationContext();
+
+
+        annotationConfigApplicationContext.getEnvironment().setActiveProfiles("test");
+
+        annotationConfigApplicationContext.register(SpringConfiguration3.class);
+        annotationConfigApplicationContext.refresh();
+
+        System.out.println("容器完成创建。。。。。");
+        printBeanNames(annotationConfigApplicationContext);
+
+    }
+
+    public static void test8(){
+        Object trueee = true;
+        Boolean inProject = (Boolean)trueee;
+        System.out.println(inProject);
+
+
+        Object i = 1;
+        int ii = (int)i;
+        System.out.println(ii);
+
+    }
+
+
 
 }

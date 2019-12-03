@@ -10,6 +10,9 @@ public class People implements InitializingBean, DisposableBean{
     private String name;
     private Integer age;
 
+    public People() {
+    }
+
     public People(String name, Integer age) {
         this.name = name;
         this.age = age;
