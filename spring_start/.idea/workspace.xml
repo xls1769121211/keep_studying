@@ -85,26 +85,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="40" />
+          <entry key="java" value="50" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="40" />
+          <entry key="JAVA" value="50" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1676" />
+          <entry key="java" value="2102" />
           <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1676" />
+          <entry key="JAVA" value="2102" />
           <entry key="XML" value="41" />
         </counts>
       </usages-collector>
@@ -113,10 +113,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/tx/configuration/SpringTxConfiguration.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/TEst1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="38" column="115" selection-start-line="38" selection-start-column="115" selection-end-line="38" selection-end-column="115" />
+            <state relative-caret-position="66">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/configuration/SpringExtConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,90 +137,80 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/AutoProxyRegistrar.java">
+        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistryPostProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+            <state relative-caret-position="205">
+              <caret line="42" column="42" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/TransactionManagementConfigurationSelector.java">
+        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanFactoryPostProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1210">
+              <caret line="72" column="75" selection-start-line="72" selection-start-column="64" selection-end-line="72" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="705" selection-start-line="705" selection-end-line="705" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="129" column="12" selection-start-line="129" selection-start-column="12" selection-end-line="129" selection-end-column="76" />
+              <folding>
+                <element signature="e#14084#14085#0" expanded="true" />
+                <element signature="e#14104#14105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/ProxyTransactionManagementConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAttributeSource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="98" column="31" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="618" column="72" selection-start-line="618" selection-start-column="72" selection-end-line="618" selection-end-column="72" />
-              <folding>
-                <element signature="e#9185#9186#0" expanded="true" />
-                <element signature="e#9222#9223#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/AnnotationTransactionAttributeSource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="95" column="54" lean-forward="true" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
-              <folding>
-                <element signature="e#3180#3181#0" expanded="true" />
-                <element signature="e#3197#3198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/SpringTransactionAnnotationParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/AbstractTransactionManagementConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264">
-              <caret line="44" column="83" selection-start-line="44" selection-start-column="83" selection-end-line="44" selection-end-column="83" />
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -245,6 +247,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring/tx/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring/tx/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xls/spring/tx/configuration/SpringTxConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring/test/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/spring/ext/configuration/SpringExtConfiguration.java" />
       </list>
     </option>
   </component>
@@ -263,7 +269,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1350" />
@@ -317,7 +323,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_start" type="b2602c69:ProjectViewProjectNode" />
@@ -326,8 +332,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
               <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_start" type="b2602c69:ProjectViewProjectNode" />
@@ -338,45 +354,6 @@
               <item name="spring" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring_start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="tx" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -384,9 +361,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="BeanDefinitionPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.BeanDefinitionRegistryPostProcessor&#10;BeanFactoryPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanFactoryPostProcessor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580740893023" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580782569499" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -394,6 +372,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xls.spring.ext.service" />
       <recent name="com.xls.spring.test" />
     </key>
   </component>
@@ -409,7 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2">
+  <component name="RunManager" selected="Application.Test3">
     <configuration name="TEst1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xls.test.TEst1" />
       <module name="spring_study" />
@@ -436,12 +415,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xls.spring.test.Test3" />
+      <module name="spring_start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.TEst1" />
       <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Test3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.TEst1" />
       </list>
@@ -467,18 +461,18 @@
       <workItem from="1577665926115" duration="2348000" />
       <workItem from="1580648757410" duration="190000" />
       <workItem from="1580648969167" duration="4865000" />
-      <workItem from="1580728902563" duration="4139000" />
+      <workItem from="1580728902563" duration="7112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48101000" />
+    <option name="totallyTimeSpent" value="51074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26541555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26541555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,8 +482,8 @@
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.032531824" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3649222" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20509194" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -821,6 +815,24 @@
           <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest2.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest2.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -890,76 +902,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE-sources.jar!/org/springframework/cglib/proxy/Enhancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7656">
-          <caret line="415" selection-start-line="415" selection-end-line="415" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.aop.framework.CglibAopProxy.ProxyCallbackFilter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.aop.framework.CglibAopProxy.ProxyCallbackFilter</OriginalElement>
-          <nodes>
-            <node x="0.0" y="81.0">org.springframework.aop.framework.CglibAopProxy.ProxyCallbackFilter</node>
-            <node x="16.5" y="0.0">org.springframework.cglib.proxy.CallbackFilter</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework.aop.framework.CglibAopProxy.ProxyCallbackFilter" target="org.springframework.cglib.proxy.CallbackFilter">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-290.0" y="104.0" />
-          <SelectedNodes>
-            <node>org.springframework.aop.framework.CglibAopProxy.ProxyCallbackFilter</node>
-            <node>org.springframework.cglib.proxy.CallbackFilter</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8932">
-          <caret line="470" selection-start-line="470" selection-end-line="470" />
-          <folding>
-            <element signature="e#11179#11180#0" expanded="true" />
-            <element signature="e#11197#11198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyProcessorSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/target/SingletonTargetSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7524">
-          <caret line="430" selection-start-line="430" selection-end-line="430" />
-          <folding>
-            <element signature="e#8872#8873#0" expanded="true" />
-            <element signature="e#8912#8913#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1914">
@@ -1038,13 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="22" column="46" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/TEst1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1135,24 +1070,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="274" selection-start-line="274" selection-end-line="274" />
-          <folding>
-            <element signature="e#14084#14085#0" expanded="true" />
-            <element signature="e#14104#14105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -1178,13 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="147" column="83" selection-start-line="147" selection-start-column="42" selection-end-line="147" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="705" selection-start-line="705" selection-end-line="705" />
         </state>
       </provider>
     </entry>
@@ -1223,13 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/AutoProxyRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/AbstractTransactionManagementConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
@@ -1255,23 +1158,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/tx/configuration/SpringTxConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="38" column="115" selection-start-line="38" selection-start-column="115" selection-end-line="38" selection-end-column="115" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/TransactionManagementConfigurationSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAttributeSource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -1286,20 +1172,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="98" column="31" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="618" column="72" selection-start-line="618" selection-start-column="72" selection-end-line="618" selection-end-column="72" />
+        <state relative-caret-position="132">
+          <caret line="864" column="63" selection-start-line="864" selection-start-column="63" selection-end-line="864" selection-end-column="63" />
           <folding>
             <element signature="e#9185#9186#0" expanded="true" />
             <element signature="e#9222#9223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/tx/configuration/SpringTxConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="85" column="37" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/AutoProxyRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/annotation/TransactionManagementConfigurationSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/test/TEst1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="705" selection-start-line="705" selection-end-line="705" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/service/ExtTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="129" column="12" selection-start-line="129" selection-start-column="12" selection-end-line="129" selection-end-column="76" />
+          <folding>
+            <element signature="e#14084#14085#0" expanded="true" />
+            <element signature="e#14104#14105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanFactoryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="72" column="75" selection-start-line="72" selection-start-column="64" selection-end-line="72" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/spring/ext/configuration/SpringExtConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
