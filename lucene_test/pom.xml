@@ -8,7 +8,7 @@
     <artifactId>lucene_test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <lunece.version>4.10.2</lunece.version>
+        <lunece.version>8.5.1</lunece.version>
     </properties>
     <dependencies>
         <dependency>
