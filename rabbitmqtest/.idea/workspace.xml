@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46e9a7ac-885d-4fbd-b444-a12c5d2f8a91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test1/Recv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test1/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test2/NewTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test3/EmitLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test3/ReceiveLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test4/EmitLogDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test4/ReceiveLogsDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test6/RPCClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test6/RPCServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_annotation/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1176670613">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1189" />
+          <entry key="xml" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1189" />
+          <entry key="XML" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="31" />
+          <entry key="pom" value="2" />
+          <entry key="xml" value="1" />
+          <entry key="xsd" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="31" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test2/NewTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test3/ReceiveLogs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test4/EmitLogDirect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test5/EmitLogTopic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test6/RPCClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="51" column="56" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test6/RPCServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test5/ReceiveLogsTopic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test4/ReceiveLogsDirect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test3/EmitLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exchangeDeclare</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/test2/Worker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test3/ReceiveLogs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test1/Recv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test1/Send.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test2/NewTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test3/EmitLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test4/ReceiveLogsDirect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test4/EmitLogDirect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test5/ReceiveLogsTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test5/EmitLogTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test6/RPCServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test6/RPCClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software_file\maven\maven_setting_repository\hhwy_setting_mvo\mvo" />
+        <option name="mavenHome" value="D:/software_file/maven/maven_main_program/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\software_file\maven\maven_setting_repository\hhwy_setting_mvo\settings2.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-10" />
+    <option name="width" value="1350" />
+    <option name="height" value="685" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584457048910" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38842106" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\github\keep_studying\rabbitmqtest\src\main\java\test6" />
+      <recent name="E:\work\github\keep_studying\rabbitmqtest\src\main\java\test5" />
+      <recent name="E:\work\github\keep_studying\rabbitmqtest\src\main\java\test4" />
+      <recent name="E:\work\github\keep_studying\rabbitmqtest\src\main\java\test3" />
+      <recent name="E:\work\github\keep_studying\rabbitmqtest\src\main\java\test2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RPCClient">
+    <configuration name="EmitLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test3.EmitLog" />
+      <module name="rabbitmqtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmitLogDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test4.EmitLogDirect" />
+      <module name="rabbitmqtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmitLogTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5.EmitLogTopic" />
+      <module name="rabbitmqtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test6.RPCClient" />
+      <module name="rabbitmqtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test6.RPCServer" />
+      <module name="rabbitmqtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogs (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test3.ReceiveLogs" />
+      <module name="rabbitmqtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogsDirect1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test4.ReceiveLogsDirect" />
+      <module name="rabbitmqtest" />
+      <option name="PROGRAM_PARAMETERS" value="error" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogsDirect2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test4.ReceiveLogsDirect" />
+      <module name="rabbitmqtest" />
+      <option name="PROGRAM_PARAMETERS" value="info" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogsTopic1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test5.ReceiveLogsTopic" />
+      <module name="rabbitmqtest" />
+      <option name="PROGRAM_PARAMETERS" value="*.error" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogsTopic2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test5.ReceiveLogsTopic" />
+      <module name="rabbitmqtest" />
+      <option name="PROGRAM_PARAMETERS" value="info.#" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worker (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2.Worker" />
+      <module name="rabbitmqtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReceiveLogsDirect1" />
+      <item itemvalue="Application.ReceiveLogsDirect2" />
+      <item itemvalue="Application.Worker (1)" />
+      <item itemvalue="Application.ReceiveLogs (1)" />
+      <item itemvalue="Application.ReceiveLogsTopic1" />
+      <item itemvalue="Application.ReceiveLogsTopic2" />
+      <item itemvalue="Application.EmitLog" />
+      <item itemvalue="Application.EmitLogDirect" />
+      <item itemvalue="Application.EmitLogTopic" />
+      <item itemvalue="Application.RPCServer" />
+      <item itemvalue="Application.RPCClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RPCClient" />
+        <item itemvalue="Application.RPCServer" />
+        <item itemvalue="Application.EmitLogTopic" />
+        <item itemvalue="Application.EmitLogDirect" />
+        <item itemvalue="Application.EmitLog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e9a7ac-885d-4fbd-b444-a12c5d2f8a91" name="Default Changelist" comment="" />
+      <created>1584434576699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584434576699</updated>
+      <workItem from="1584434579690" duration="3593000" />
+      <workItem from="1584441792824" duration="13569000" />
+      <workItem from="1584493532950" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17759000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info id="JRebel" order="1" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Structure" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19263457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.07365439" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="JRebel Executor" order="12" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="741" column="23" lean-forward="true" selection-start-line="741" selection-start-column="23" selection-end-line="741" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0.jar!/com/rabbitmq/client/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="212" column="16" selection-start-line="212" selection-start-column="16" selection-end-line="212" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0.jar!/com/rabbitmq/client/impl/ChannelN.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9020">
+          <caret line="503" column="105" selection-start-line="503" selection-start-column="100" selection-end-line="503" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.7.3/amqp-client-5.7.3.pom" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmqtest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/impl/ChannelN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="1397" column="66" lean-forward="true" selection-start-line="1397" selection-start-column="66" selection-end-line="1397" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="201" column="76" lean-forward="true" selection-start-line="201" selection-start-column="76" selection-end-line="201" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/Envelope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/Delivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="35" column="17" selection-start-line="35" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/CancelCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/MessageProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/impl/AMQImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31790">
+          <caret line="1518" column="49" selection-start-line="1518" selection-start-column="45" selection-end-line="1518" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/AMQP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="568" column="26" selection-start-line="568" selection-start-column="19" selection-end-line="568" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/DeliverCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test1/Recv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test1/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test2/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/maven/maven_setting_repository/hhwy_setting_mvo/mvo/com/rabbitmq/amqp-client/5.8.0/amqp-client-5.8.0-sources.jar!/com/rabbitmq/client/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="728" column="28" selection-start-line="728" selection-start-column="18" selection-end-line="728" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test2/NewTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test3/ReceiveLogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test4/EmitLogDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test5/EmitLogTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test6/RPCClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="51" column="56" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test5/ReceiveLogsTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test4/ReceiveLogsDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test3/EmitLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test6/RPCServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38842106" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38842106" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38842106" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38842106" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>rabbitmqtest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38842106" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.rabbitmq:amqp-client:5.8.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38842106" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

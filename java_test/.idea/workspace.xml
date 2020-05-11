@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="489c4bcb-72dc-45cc-8d2a-16a5f7ab0340" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1212816272">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="978" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="978" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#487#689#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#2209#2904#0" expanded="true" />
+                <element signature="e#2903#2904#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/testSynchronizedRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+              <folding>
+                <element signature="e#277#419#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#451#593#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/testReadWriteLockRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+              <folding>
+                <element signature="e#459#624#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#656#821#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/testReentrantReadWriteLockReadAndWrite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-402">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding>
+                <element signature="e#463#628#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#660#825#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/software_file/java/jdk/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-279">
+              <caret line="251" column="65" selection-start-line="251" selection-start-column="39" selection-end-line="251" selection-end-column="65" />
+              <folding>
+                <element signature="e#26818#26819#0" expanded="true" />
+                <element signature="e#26858#26859#0" expanded="true" />
+                <element signature="e#33491#33492#0" expanded="true" />
+                <element signature="e#33536#33537#0" expanded="true" />
+                <element signature="e#34878#34879#0" expanded="true" />
+                <element signature="e#34918#34919#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/test/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/test/test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/test/testSynchronizedRead.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/test/testReadWriteLockRead.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xls/test/testReentrantReadWriteLockReadAndWrite.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software_file\maven\maven_setting_repository\hhwy_setting_mvo\mvo" />
+        <option name="mavenHome" value="D:/software_file/maven/maven_main_program/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\software_file\maven\maven_setting_repository\hhwy_setting_mvo\settings2.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="495" />
+    <option name="y" value="135" />
+    <option name="width" value="1350" />
+    <option name="height" value="685" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.testReentrantReadWriteLockReadAndWrite">
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xls.test.test2" />
+      <module name="java_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testReadWriteLockRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xls.test.testReadWriteLockRead" />
+      <module name="java_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testReentrantReadWriteLockReadAndWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xls.test.testReentrantReadWriteLockReadAndWrite" />
+      <module name="java_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.testLockDowngrade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.test.test1" />
+      <option name="METHOD_NAME" value="testLockDowngrade" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.testSynchronizedRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xls.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xls.test.test1" />
+      <option name="METHOD_NAME" value="testSynchronizedRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.test1.testLockDowngrade" />
+      <item itemvalue="JUnit.test1.testSynchronizedRead" />
+      <item itemvalue="Application.test2" />
+      <item itemvalue="Application.testReadWriteLockRead" />
+      <item itemvalue="Application.testReentrantReadWriteLockReadAndWrite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testReentrantReadWriteLockReadAndWrite" />
+        <item itemvalue="Application.testReadWriteLockRead" />
+        <item itemvalue="JUnit.test1.testSynchronizedRead" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="JUnit.test1.testLockDowngrade" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="489c4bcb-72dc-45cc-8d2a-16a5f7ab0340" name="Default Changelist" comment="" />
+      <created>1589187146006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589187146006</updated>
+      <workItem from="1589187148811" duration="4762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 28m 34s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 28m 59s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 29m 16s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 30m 48s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 32m 16s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 33m 44s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 33m 53s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 34m 02s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 17h 36m 26s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test1_testSynchronizedRead - 2020.05.11 at 18h 18m 37s.xml">
+      <configuration name="test1.testSynchronizedRead" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4762000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2970297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42149928" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xls/test/test1.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/software_file/java/jdk/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="678" column="26" selection-start-line="678" selection-start-column="11" selection-end-line="678" selection-end-column="26" />
+          <folding>
+            <element signature="e#45599#45600#0" expanded="true" />
+            <element signature="e#45656#45657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software_file/java/jdk/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="251" column="65" selection-start-line="251" selection-start-column="39" selection-end-line="251" selection-end-column="65" />
+          <folding>
+            <element signature="e#26818#26819#0" expanded="true" />
+            <element signature="e#26858#26859#0" expanded="true" />
+            <element signature="e#33491#33492#0" expanded="true" />
+            <element signature="e#33536#33537#0" expanded="true" />
+            <element signature="e#34878#34879#0" expanded="true" />
+            <element signature="e#34918#34919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#487#689#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#2209#2904#0" expanded="true" />
+            <element signature="e#2903#2904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/testSynchronizedRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="e#277#419#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#451#593#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/testReadWriteLockRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="e#459#624#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#656#821#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xls/test/testReentrantReadWriteLockReadAndWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#463#628#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#660#825#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
